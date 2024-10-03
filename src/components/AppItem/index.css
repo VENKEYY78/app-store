@@ -1,0 +1,17 @@
+.each-app-container {
+  height: 150px;
+  width: 100px;
+  background-color: #b7e0de;
+  border-radius: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.app-image {
+  height: 50px;
+  width: 50px;
+}
